@@ -34,8 +34,12 @@ nav {
     padding-left: 55px;
 }
 
+.nav_button{
+    display: flex;
+}
+
 .Log_in a {
-    margin-left: 500px;
+    margin-left: 300px;
     border: 2px solid #CCCCCC;
     ;
     width: 120px;
